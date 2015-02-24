@@ -1,5 +1,6 @@
 jobz
 ====
+- Kal
 
 zeromq queue based distributed job execution and synchronization behind mongrel2
 
